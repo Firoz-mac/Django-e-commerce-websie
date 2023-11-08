@@ -1,0 +1,5 @@
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gamil.com'
+EMAIL_HOST_USER = 'mhdfiroz708@gmail.com'
+EMAIL_HOST_PASSWORD = '8086105789'
+EMAIL_PORT = 587
